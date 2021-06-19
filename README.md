@@ -35,7 +35,7 @@ Additionally, matplotlib was used in the creation of the data visualization. Thi
 
 In the below image, we take a slice of the Bitstamp and Coinbase markets:
 
-![alt text](Resources/Images/sliced_data.png)
+![alt text](Resources/Images/Sliced_data.png)
 
 From there, we utilize matplotlib to visualize each of the datasets:
 
