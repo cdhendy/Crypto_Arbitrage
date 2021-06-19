@@ -1,5 +1,5 @@
 Module 3 - Challenge 3 : Crypto Arbitrage
-=======================================
+=========================================
 
 ## Purpose
 
@@ -47,19 +47,21 @@ By superimposing both graphs we can really start to visualize areas of opportuni
 
 Later in the analysis we will be digging into the specific areas of opportunity of the above dataset, but visually one can see that the best areas of opportunity are clearly in the months of January and February. 
 
+---
 
+After breaking the data down further, we can determine the profit to be gained specifically on the days of January 16th and February 24th:
 
+![alt text](resources/images/cumulative_sum.png)
 
+Profit margins for these days are $14147.17, and $330.07, respectively. 
 
-
-
+The dataset from March was intentionally omitted as there was no profit to be made in that time period. 
 
 ---
 
-## Usage
+## Conclusion
 
-
-
+Arbitrage opportunities avail themselves rarely, and in this specific slice of data, we can clearly see how fleeting these opportunities can be. 
 
 ---
 
@@ -67,7 +69,7 @@ Later in the analysis we will be digging into the specific areas of opportunity 
 
 Created by: Chris Henderson
 
-Email: cdhendy@gmail.com
+cdhendy@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/chris-henderson123/)
 
