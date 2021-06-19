@@ -35,15 +35,15 @@ Additionally, matplotlib was used in the creation of the data visualization. Thi
 
 In the below image, we take a slice of the Bitstamp and Coinbase markets:
 
-![alt text](resources/images/sliced_data.png)
+![alt text](Resources/Images/sliced_data.png)
 
 From there, we utilize matplotlib to visualize each of the datasets:
 
-![alt text](resources/images/breakout_linegraph.png)
+![alt text](Resources/Images/breakout_linegraph.png)
 
 By superimposing both graphs we can really start to visualize areas of opportunity:
 
-![alt text](resources/images/superimposed.png)
+![alt text](Resources/Images/superimposed.png)
 
 Later in the analysis we will be digging into the specific areas of opportunity of the above dataset, but visually one can see that the best areas of opportunity are clearly in the months of January and February. 
 
@@ -51,7 +51,7 @@ Later in the analysis we will be digging into the specific areas of opportunity 
 
 After breaking the data down further, we can determine the profit to be gained specifically on the days of January 16th and February 24th:
 
-![alt text](resources/images/cumulative_sum.png)
+![alt text](Resources/Images/cumulative_sum.png)
 
 Profit margins for these days are $14147.17, and $330.07, respectively. 
 
